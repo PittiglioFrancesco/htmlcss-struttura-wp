@@ -4,31 +4,36 @@
     box-sizing: border-box;
 }
 
+/* header */
+
 header{
-    height: 100px;
+    /height: 100px; /* da togliere */
     background-color: #e579e6;
-
+    margin-bottom: 20px;
 }
 
-main{
-    background-color: #0186ff;
-}
+/* main */
+
+/* sezione gialla */
 
 .yellow{
-    height: 400px;
+    height: 400px; /* da togliere */
     background-color: #e1d67a;
+    margin-bottom: 20px;
 }
 
+/* sezione blu */
+
 .blue{
-    height: 500px;
+    height: 500px; /* da togliere */
     background-color: #0186ff;
     margin: 20px 0 10px;
 }
 
 .top{
-    height: 50px;
+    height: 50px; /* da togliere */
     background-color: #abcfe7;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .float{
@@ -36,21 +41,21 @@ main{
 }
 
 aside{
-    height: 480px;
+    height: 410px;  /* da togliere */
     width: calc(25% - 20px);
     background-color: #abcfe7;
 }
 
 .central{
-    height: 480px;
+    height: 410px;  /* da togliere */
     width: 50%;
     background-color: #abcfe7;
     margin: 0 20px;
 }
 
-
+/* footer */
 
 footer{
-    height: 100px;
+    height: 100px;  /* da togliere */
     background-color: #8801fe;
 }
