@@ -7,6 +7,11 @@
 header{
     height: 100px;
     background-color: #e579e6;
+
+}
+
+main{
+    background-color: #0186ff;
 }
 
 .yellow{
@@ -17,9 +22,35 @@ header{
 .blue{
     height: 500px;
     background-color: #0186ff;
+    margin: 20px 0 10px;
 }
 
 .top{
     height: 50px;
     background-color: #abcfe7;
+    padding-bottom: 20px;
+}
+
+.float{
+    float: left;
+}
+
+aside{
+    height: 480px;
+    width: calc(25% - 20px);
+    background-color: #abcfe7;
+}
+
+.central{
+    height: 480px;
+    width: 50%;
+    background-color: #abcfe7;
+    margin: 0 20px;
+}
+
+
+
+footer{
+    height: 100px;
+    background-color: #8801fe;
 }
