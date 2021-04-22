@@ -9,3 +9,17 @@ header{
     background-color: #e579e6;
 }
 
+.yellow{
+    height: 400px;
+    background-color: #e1d67a;
+}
+
+.blue{
+    height: 500px;
+    background-color: #0186ff;
+}
+
+.top{
+    height: 50px;
+    background-color: #abcfe7;
+}
