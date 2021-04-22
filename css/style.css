@@ -30,6 +30,13 @@ header{
     margin: 20px 0 10px;
 }
 
+section.blue::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
 .top{
     height: 50px; /* da togliere */
     background-color: #abcfe7;
